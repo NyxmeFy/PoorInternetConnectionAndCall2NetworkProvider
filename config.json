@@ -1,0 +1,7 @@
+{
+    "download": 300000000,
+    "upload": 300000000,
+    "downloadMin": 0.4,
+    "uploadMin": 0.4,
+    "NetworkProvider": "VIVO"
+}
